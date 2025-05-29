@@ -1,10 +1,3 @@
-I'm trying to build an app using next.js 
-
-
-this is what we want to app to do
-
-this is an update requirement
-
 Here’s the updated list of features for the ERP Cooperative Application, incorporating the alternative approaches discussed for the confirmation of deductions and other enhancements:
 
 Updated Features for the ERP Cooperative Application
